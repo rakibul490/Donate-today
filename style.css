@@ -1,0 +1,16 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.donet {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    width: 100%;
+    padding: 1% 10% 1% 10%;
+
+}
